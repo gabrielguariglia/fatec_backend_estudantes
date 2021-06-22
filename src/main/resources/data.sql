@@ -1,0 +1,2 @@
+INSERT INTO TB_ESTUDANTE (nome,idade,curso,faculdade) VALUES ('Pedro Adoryan',19,'Veterinário','UNASP');
+INSERT INTO TB_ESTUDANTE (nome,idade,curso,faculdade) VALUES ('Pedro Rodrigues',15,'Automação Indrustrial','IF');
